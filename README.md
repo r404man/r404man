@@ -1,5 +1,5 @@
 ### Добро пожаловать, мое имя Роман 👋
-    *Для друзей r404man*
+
 - ⚡ Oсновное направление Веб-разработка
 - 📫 Вопросы можно задать в [Телеграм](@err0man)
 - 🔭 Продвигаюсь в NodeJS & Angular
@@ -22,7 +22,7 @@
  <img src="https://github-readme-stats.vercel.app/api?username=r404man&show_icons=true&theme=light&line_height=27" />
 </a>
 
-### > Мы встретимся там, где нет темноты :octocat:
+### Мы встретимся там, где нет темноты :octocat:
 
 <!--
 **r404man/r404man** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
