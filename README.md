@@ -3,7 +3,7 @@
 - ⚡ Oсновное направление Веб-разработка
 - 📫 Вопросы можно задать в [Телеграм](@err0man)
 - 🔭 Продвигаюсь в NodeJS & Angular
-- 🤔 Vim created especially for Hustle Gang 
+- 🤔 Use vim for html, css formating
 
 ### Инструменты и языки 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code> 
