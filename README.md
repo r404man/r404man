@@ -1,7 +1,7 @@
 ### Hello, my name is Roman, nice to meet you 👋
 
 - ⚡ My passion is Web Development
-- 📫 My telegram for callbacks [Телеграм](https://t.me/err0man)
+- 📫 My telegram for callbacks [Telegram](https://t.me/err0man)
 - 🔭 Experienced with Angular, React, NodeJS
 - 🤔 Using vim for html, css formating
 
