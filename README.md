@@ -1,11 +1,11 @@
-### Добро пожаловать, мое имя Роман 👋
+### Hello, my name is Roman, nice to meet you 👋
 
-- ⚡ Oсновное направление - Веб-разработка
-- 📫 Вопросы можно задать в [Телеграм](https://t.me/err0man)
-- 🔭 Продвигаюсь в NodeJS & Angular
-- 🤔 Use vim for html, css formating
+- ⚡ My passion is Web Development
+- 📫 My telegram for callbacks [Телеграм](https://t.me/err0man)
+- 🔭 Experienced with Angular, React, NodeJS
+- 🤔 Using vim for html, css formating
 
-### Инструменты и языки 
+### Stack & Tools
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code> 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png"></code>
@@ -14,7 +14,7 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vim/vim.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>    
 
-### Cтатистика
+### Stats
 <a href="https://github.com/r404man">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=r404man&theme=light&hide_langs_below=1" />
 </a>
@@ -23,7 +23,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=r404man"/>
 </a>
 
-### Мы встретимся там, где нет темноты :octocat:
+### Hope to connect with interesting people :octocat:
 
 <!--
 **r404man/r404man** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
